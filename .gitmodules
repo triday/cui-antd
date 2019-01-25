@@ -1,3 +1,6 @@
 [submodule "src/core"]
 	path = src/core
 	url = https://github.com/triday/cui-core.git
+[submodule "src/demos"]
+	path = src/demos
+	url = https://github.com/triday/cui-demos.git
